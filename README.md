@@ -1,4 +1,4 @@
-# You can call me Cece. 
+# You can call me Cece 
 
 ### About me 
 I am a dental hygienist and administrative lead pursuing a Data Analytics degree.  I’ve earned multiple certifications thus far and valuable hands-on practice with a variety of different analytical tools and programming languages via projects in my portfolio. I am seeking to leverage my unique healthcare background and skills toward a new career path.  
@@ -15,4 +15,6 @@ I am a dental hygienist and administrative lead pursuing a Data Analytics degree
 •	Pivot Tables 
 
 ## SQL Project: Data Management 
-I was tasked with creating a business report where I analyzed a dataset from a movie rental database using SQL. I asked pertinent business questions that I then built my code around for the analysis. 
+I was tasked with creating a business report where I analyzed a dataset from a movie rental database using SQL. I asked pertinent business questions that I then built my code around for the analysis. I chose to base the project around which movie categories were the most and least popular. I then created new tables housing the information needed and scheduled a job to update my tables whenever the data set updated. Below you'll find a link to the .doc file with said business report and the code I wrote:
+
+[PostGreSQL Film Database Project](https://github.com/cchammout/portfolio/blob/main/assets/img/d191%20pa.docx).
