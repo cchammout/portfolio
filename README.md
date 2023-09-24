@@ -23,3 +23,18 @@ I was tasked with creating a business report where I analyzed a dataset from a m
 Using a fictious music streaming platform's data set, I was tasked with creating a database schema and ETL pipeline. The readme file in the link below will provide more in depth discussion on the particular processes utilized.
 
 [PostGreSQL Data Modeling](https://github.com/cchammout/portfolio/tree/main/Data%20modeling%20with%20Postgresql)
+
+## Python: A/B Test 
+I was tasked with working to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. Below is a link to the .pdf of the project. 
+
+[A/B Test](https://github.com/cchammout/portfolio/blob/main/Analyze_ab_test_results_notebook.pdf)
+
+## Python: Data Wrangling, Cleaning, and Visualization 
+I was tasked with wrangling data from the WeRateDogs twitter archives, cleaning it, storing it for analysis, and utilizing for visualization purposes. Below a link can be found with several .pdf files. One containing the jupyter notebook with the code and work, one with a write up on how I completed the task, and the last one in the style of a blog post to report my findings. 
+
+[Data Wrangling Project](https://github.com/cchammout/portfolio/tree/main/Data%20wrangling)
+
+## R: Analysis of Bikeshare Data 
+Given data sets from three different cities from a bike share company I asked three business questions. I used R to analyze the data and create visualizations. Below is a link to the .pdf file. 
+
+[R Analysis](https://github.com/cchammout/portfolio/blob/main/Explore_bikeshare_data.pdf)
