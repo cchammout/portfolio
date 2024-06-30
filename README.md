@@ -1,11 +1,12 @@
 # You can call me Cece 
 
 ### About me 
-I am a dental hygienist and administrative lead pursuing a Data Analytics degree.  I’ve earned multiple certifications thus far and valuable hands-on practice with a variety of different analytical tools and programming languages via projects in my portfolio. I am seeking to leverage my unique healthcare background and skills toward a new career path.  
+I am an Office Manager and active contributor to the Quality Control and Human Resources departments of a B2C E-commerce company while pursuing a Data Analytics degree.  I’ve earned multiple certifications thus far and valuable hands-on practice with a variety of different analytical tools and programming languages via projects in my portfolio. I am seeking to leverage my unique  background and skills toward a new career path.  
 
 ### Certifications  
 •	CIW Data Analyst Certification
 •	CompTIA Project+
+•	AWS – Certified Cloud Practitioner
  
 ### Languages & Programs 
 •	Python 
